@@ -1,0 +1,18 @@
+{
+    "correct": {
+        "email": "sriram@gmail.com",
+        "password": "1234567890"
+    },
+    "wrong_password": {
+        "email": "sriram@gmail.com",
+        "password": "12345645490"
+    },
+    "wrong_email": {
+        "email": "sriram123@gmail.com",
+        "password": "1234567890"
+    },
+    "empty_email": {
+        "email": "",
+        "password": "1234567890"
+    }
+}

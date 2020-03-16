@@ -1,0 +1,6 @@
+{"correct":{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJfaWQiOjQ3LCJlbWFpbCI6InNyaXJhbUBnbWFpbC5jb20iLCJwYXNzd29yZCI6IjEyMzQ1Njc4OTAifSwiaWF0IjoxNTgxNTg3MjA3fQ.YXxgsuRoaD0SvqKWtKQNwanKhG8IPpsnyyEYvVscATs"
+},
+"fake":{
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+}}

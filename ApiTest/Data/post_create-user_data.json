@@ -1,0 +1,12 @@
+{
+    "positive": {
+        "name": "sivaram",
+        "email": "sdnivi@gmail.com",
+        "password": "1234567890"
+    },
+    "negative": {
+        "name": "sriram",
+        "email": "sriram@gmail.com",
+        "password": "1234567890"
+    }
+}

@@ -1,0 +1,48 @@
+
+
+{"positive":{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "array",
+    "properties": {
+        "items": {
+            "type":"object",
+            "properties":{
+                "name":{
+                    "type":"string"
+                },
+                "email":{
+                    "type":"string"
+                },
+                "id":{
+                    "type":"string"
+                },
+                "password":{
+                    "type":"string"
+                },
+                "role":{
+                    "type":"string"
+                }
+            },
+            "required": [
+                "name",
+                "email",
+                "id",
+                "password",
+                "role"
+            ] 
+        } 
+    }
+},
+
+"negative" :{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "message": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "message"
+    ]
+}}
